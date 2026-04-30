@@ -24,5 +24,5 @@ This project applies machine learning to predict the probability of an aircraft 
 │   └── cat_features.pkl
 └── README.md
 ```
-[open in Google Colab]([https://nbviewer.org](https://colab.research.google.com/github/BenRyan-8/Dissertation/blob/main/notebooks/03_model_training.ipynb))
+[open in Google Colab](https://colab.research.google.com/github/BenRyan-8/Dissertation/blob/main/notebooks/03_model_training.ipynb)
 > **Note:** The model training notebook (03_model_training.ipynb) may not render in GitHub so use the Colab link to view it in full.
