@@ -7,10 +7,10 @@ This project applies machine learning to predict the probability of an aircraft 
 ## Repository Structure
 ```
 ├── notebooks/
-│   |── 01_data_collection.ipynb
-│   ├── 02_preprocessing.ipynb
-│   ├── 03_model_training.ipynb
-│   └── 04_rank_stock_list.ipynb
+│   |── 1_data_collection.ipynb
+│   ├── 2_preprocessing.ipynb
+│   ├── 3_model_training.ipynb
+│   └── 4_rank_stock_list.ipynb
 ├── data/
 │   ├── raw/
 |   |   └── 777 Parts List.xlsx   # the rest is excluded because it's commercially sensitive
@@ -24,5 +24,5 @@ This project applies machine learning to predict the probability of an aircraft 
 │   └── cat_features.pkl
 └── README.md
 ```
-[open in Google Colab](https://colab.research.google.com/github/BenRyan-8/Dissertation/blob/main/notebooks/03_model_training.ipynb)
+[open in Google Colab](https://colab.research.google.com/github/BenRyan-8/Dissertation/blob/main/notebooks/3_model_training.ipynb)
 > **Note:** The model training notebook (03_model_training.ipynb) may not render in GitHub so use the Colab link to view it in full.
